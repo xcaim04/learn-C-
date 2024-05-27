@@ -11,5 +11,3 @@ dotnet new console -o NameProject
 ```
 dotnet run
 ```
-
-### Perdon por la ironia, pero este primer acercamiento no es un hola mundo, es algo basico de clases y objetos en C#. Lo que seria para mi un Hola Mundo.
