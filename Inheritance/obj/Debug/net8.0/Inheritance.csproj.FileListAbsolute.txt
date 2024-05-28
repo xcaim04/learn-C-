@@ -1,0 +1,15 @@
+/home/carlos/workspace/learning/learn-C-/Inheritance/bin/Debug/net8.0/Inheritance
+/home/carlos/workspace/learning/learn-C-/Inheritance/bin/Debug/net8.0/Inheritance.deps.json
+/home/carlos/workspace/learning/learn-C-/Inheritance/bin/Debug/net8.0/Inheritance.runtimeconfig.json
+/home/carlos/workspace/learning/learn-C-/Inheritance/bin/Debug/net8.0/Inheritance.dll
+/home/carlos/workspace/learning/learn-C-/Inheritance/bin/Debug/net8.0/Inheritance.pdb
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfoInputs.cache
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.AssemblyInfo.cs
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.csproj.CoreCompileInputs.cache
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.sourcelink.json
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.dll
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/refint/Inheritance.dll
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.pdb
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/Inheritance.genruntimeconfig.cache
+/home/carlos/workspace/learning/learn-C-/Inheritance/obj/Debug/net8.0/ref/Inheritance.dll
