@@ -93,6 +93,13 @@ namespace HelloCSharp
             Console.WriteLine(Convert.ToInt32(myDouble2));  // convert double to int
             Console.WriteLine(Convert.ToString(myBool2));   // convert bool to string
 
+            // Get user input
+
+            string userName = Console.ReadLine();
+            // ERROR: int age = Console.ReadLine();
+            int userAge = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("The user: " + userName + " " + "has" + " " + userAge + " " + "years old");
+
         }
     }
 
