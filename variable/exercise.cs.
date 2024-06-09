@@ -1,0 +1,19 @@
+using System;
+
+namespace exerciseVariables
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            int numberCases = Convert.ToInt32(Console.ReadLine());
+
+            while (numberCases > 0)
+            {
+                int testCase = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine(testCase * testCase);
+                --numberCases;
+            }
+        }
+    }
+}
