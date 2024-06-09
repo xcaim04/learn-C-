@@ -1,0 +1,15 @@
+/home/carlos/workspace/learning/learn-C-/string/bin/Debug/net8.0/string
+/home/carlos/workspace/learning/learn-C-/string/bin/Debug/net8.0/string.deps.json
+/home/carlos/workspace/learning/learn-C-/string/bin/Debug/net8.0/string.runtimeconfig.json
+/home/carlos/workspace/learning/learn-C-/string/bin/Debug/net8.0/string.dll
+/home/carlos/workspace/learning/learn-C-/string/bin/Debug/net8.0/string.pdb
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.AssemblyInfoInputs.cache
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.AssemblyInfo.cs
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.csproj.CoreCompileInputs.cache
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.sourcelink.json
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.dll
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/refint/string.dll
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.pdb
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/string.genruntimeconfig.cache
+/home/carlos/workspace/learning/learn-C-/string/obj/Debug/net8.0/ref/string.dll
