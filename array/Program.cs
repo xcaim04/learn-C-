@@ -59,6 +59,42 @@ class Program
         }
 
 
+        // ************************************
+
+        // Bi-dimensional (MATRIX)
+
+        // type[,] matrix = { {}, {} };
+    // Good to know: The single comma [,] specifies that the array is two-dimensional. A three-dimensional array would have two commas: int[,,].
+
+        int[,] numbers1 = { {2, 1, 4}, {3, 5, 1} };
+
+        Console.WriteLine(numbers1[0, 2]);  // Outputs 4
+
+        numbers1[0, 0] = 5;  // Change value to 5
+        Console.WriteLine(numbers1[0, 0]); // Outputs 5 instead of 1
+
+
+        // Loop a matrix
+        foreach (int i in numbers1)
+        {
+            Console.Write(i + " ");
+        } 
+
+
+        /* You can also use a for loop. For multidimensional arrays, you need one loop for each of the array's dimensions.
+
+        Also note that we have to use GetLength() instead of Length to specify how many times the loop should run:
+
+        Example */
+
+        for (int i = 0; i < numbers.GetLength(0); i++) 
+        { 
+            for (int j = 0; j < numbers.GetLength(1); j++) 
+            { 
+                Console.WriteLine(numbers[i, j]); 
+            } 
+        }  
+
     }
 }
 
