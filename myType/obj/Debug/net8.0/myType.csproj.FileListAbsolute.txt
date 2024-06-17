@@ -1,0 +1,15 @@
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.GeneratedMSBuildEditorConfig.editorconfig
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.AssemblyInfoInputs.cache
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.AssemblyInfo.cs
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.csproj.CoreCompileInputs.cache
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.sourcelink.json
+/home/carlos/workspace/learning/learn-C-/myType/bin/Debug/net8.0/myType
+/home/carlos/workspace/learning/learn-C-/myType/bin/Debug/net8.0/myType.deps.json
+/home/carlos/workspace/learning/learn-C-/myType/bin/Debug/net8.0/myType.runtimeconfig.json
+/home/carlos/workspace/learning/learn-C-/myType/bin/Debug/net8.0/myType.dll
+/home/carlos/workspace/learning/learn-C-/myType/bin/Debug/net8.0/myType.pdb
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.dll
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/refint/myType.dll
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.pdb
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/myType.genruntimeconfig.cache
+/home/carlos/workspace/learning/learn-C-/myType/obj/Debug/net8.0/ref/myType.dll
